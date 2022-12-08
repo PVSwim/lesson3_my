@@ -15,3 +15,5 @@ git branch -M main
 git push -u origin main
 
 *The git push command is used to write to a remote repository*
+
+#Add sentence in github#
